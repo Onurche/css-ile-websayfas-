@@ -1,0 +1,50 @@
+/* Header Section Starts */
+
+a {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: lightblue;
+  text-align: end;
+}
+
+h1 {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  font-style: oblique;
+}
+
+h2 {
+  border-color: lawngreen;
+  color: powderblue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  color: mintcream;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Header Section Ends */
+
+/* **** This is body section **** */
+
+body {
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png);
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-position: left;
+  background-attachment: fixed;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+p {
+  color: white;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+/* ************ Body section ends ******* */
